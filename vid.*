@@ -1,0 +1,10 @@
+{
+    "file": "//content.jwplatform.com/manifests/1b02B03R.m3u8",
+    "image": "//content.jwplatform.com/thumbs/1b02B03R-720.jpg",
+    "width": "50%",
+    "aspectratio": "16:9",
+    "autostart": false,
+    "controls": true,
+    "preload": "metadata",
+    "primary": "html5"
+}
